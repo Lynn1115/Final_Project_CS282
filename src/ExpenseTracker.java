@@ -3,13 +3,14 @@
     The propose of this application is to create an application for user to track 
     their daily expense.
     Group of 2 people: Yuni Lin and Darcie McCrary
+    New Git Repo initialized.
 */
 import java.awt.*;
 import javax.swing.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-
+//frame class.
 class Frame {
     private JFrame frame;
 
